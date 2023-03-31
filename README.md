@@ -1,12 +1,3 @@
-### Hi, I'm Jakub Tomczyk👋
-
-I'm a 2nd year Automatics and Robotics Student at AGH University of Science and Technology
-
-- 🔭 I’m alreaady good at: 
-- 🌱 I’m currently learning ...
-
-- 💬 Ask me about ...
-
 <h1 align="center">Hi 👋, I'm Jakub Tomczyk</h1>
 <h3 align="center">A 2nd year Automatics and Robotics Student at AGH University of Science and Technology in Poland.</h3>
 
