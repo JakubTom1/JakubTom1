@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jakub Tomczyk</h1>
-<h3 align="center">A 3rd year Automation and Robotics Student at AGH University of Science and Technology in Poland.</h3>
+<h3 align="center">A 4th year Automation and Robotics Student at AGH University of Science and Technology in Poland.</h3>
 
 - 📫 How to reach me **jakub.tom16@gmail.com**
 
